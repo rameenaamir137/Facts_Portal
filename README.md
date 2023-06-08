@@ -21,6 +21,6 @@ The web application aims to provide pre-schoolers with supplementary information
 
 To use the web application, follow these steps:
 
-1.Clone this repository to your local machine or download the source code as a ZIP file.
-2.Open the index.html file in your preferred internet browser.
-3.Start exploring the interesting facts and enjoy the interactive experience!
+1.Clone this repository to your local machine or download the source code as a ZIP file.<br>
+2.Open the index.html file in your preferred internet browser.<br>
+3.Start exploring the interesting facts and enjoy the interactive experience!<br>
